@@ -5,7 +5,7 @@ font-family: sans-serif;
 padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: purple;
+		  color: MidnightBlue;
     background-color: #e0cdcf }
 	  ul.navbar {
      list-style-type: none;
@@ -28,7 +28,7 @@ ul.navbar a {
 a:link {
   color: blue }
 a:visited {
-  color: purple }
+  color: MidnightBlue }
 address {
   margin-top: 1em;
   padding-top: 1em;
